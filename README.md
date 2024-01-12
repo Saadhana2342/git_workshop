@@ -1,2 +1,7 @@
-# git_workshop
-this is the first repository<br>this is for the workshop
+# Hello-world
+#include<stdio.h>
+void main()
+{
+  printf("Hello world\n");
+print("nice to meet you"\n);
+} 
